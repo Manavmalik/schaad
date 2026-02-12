@@ -1,0 +1,3 @@
+this is a test file to ceck if it encrypt the file or
+not and after encrypting the file it, 
+did it decrypt it or not 
